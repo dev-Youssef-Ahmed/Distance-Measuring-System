@@ -2,9 +2,9 @@ The Distance Measuring System is a mini-project of Standard Embedded Systems Dip
 
 The project involves Developing a system that measure the distance and display it on LCD. It utilizes various drivers including GPIO, ICU, Ultrasonic Sensor and LCD for functionality.
 
-> HMI_ECU MCAL: GPIO and ICU.
+> MCAL: GPIO and ICU.
 
-> HMI_ECU HAL: LCD and ULTRASONIC.
+> HAL: LCD and ULTRASONIC.
 
 The HC-SR04 ultrasonic sensor is a popular choice for distance measurement in various projects due to its affordability, simplicity, and reliability. It utilizes ultrasonic waves to determine the distance between the sensor and an object by measuring the time it takes for the sound waves to bounce back after being emitted. This sensor typically consists of two main components: a transmitter and a receiver.
 
