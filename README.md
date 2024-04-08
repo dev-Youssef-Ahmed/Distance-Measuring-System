@@ -14,3 +14,5 @@ Here is some screenshots from the system:
 ![image](https://github.com/dev-Youssef-Ahmed/Distance-Measuring-System/assets/153888401/50961ab3-aec3-4894-93d8-dbe46c633e6c)
 
 ![image](https://github.com/dev-Youssef-Ahmed/Distance-Measuring-System/assets/153888401/7abf6794-3f2f-4e6e-8e3c-94da4900dbb3)
+
+Note: The proteus file contain two sheets, the user interface sheet, and the background sheet.
